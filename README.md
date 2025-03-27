@@ -1,2 +1,3 @@
 # extra_learn
-一些学习的相关记录
+dev 为未完成的笔记
+archive 为已完成的笔记
